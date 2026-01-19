@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="github-metrics.svg"  style="display:block;margin:auto;width:100%;" />
+    <img src="github-metrics.svg"  style="display:block;margin:auto;width:70%;" />
 </p>
 
 <!--   my-icons -->
