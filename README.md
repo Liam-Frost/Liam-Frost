@@ -1,111 +1,36 @@
-<!-- ===== Header ===== -->
-<div align="center">
+![](assets/Bottom_up.svg)
 
-  <h1 style="margin-bottom: 0;">Liam-Frost</h1>
-  <p style="margin-top: 6px; margin-bottom: 14px;">
-    <a href="[YOUR_WEBSITE](https://twilightfrosty.com/)">Website</a> ·
-    <a href="YOUR_LINKEDIN">LinkedIn</a> ·
-    <a href="mailto:frostnova986@gmail.com">Email</a>
-  </p>
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/Liam-Frost/Liam-Frost"><img src="https://img.shields.io/badge/status-building-brightgreen.svg"></a>
+    <a href="https://www.ubc.ca/"><img src="https://img.shields.io/badge/UBC-Computer%20Engineering-002145.svg"></a>
+    <a href="https://github.com/Liam-Frost?tab=repositories"><img src="https://img.shields.io/badge/focus-systems%20%2B%20product-111111.svg"></a>
+    <a href="https://github.com/Liam-Frost?tab=followers"><img src="https://img.shields.io/github/followers/Liam-Frost?label=followers&logo=github"></a>
+    <a href="https://github.com/Liam-Frost?tab=stars"><img src="https://img.shields.io/github/stars/Liam-Frost?affiliations=OWNER%2CCOLLABORATOR&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Liam-Frost.Liam-Frost" alt="visitors"/>
+</p>
 
-  <!-- Quick badges -->
-  <p>
-    <img alt="Location" src="https://img.shields.io/badge/Vancouver-BC-0A66C2?style=flat&logo=googlemaps&logoColor=white" />
-    <img alt="UBC" src="https://img.shields.io/badge/UBC-Computer%20Engineering-002145?style=flat&logo=university&logoColor=white" />
-    <img alt="Focus" src="https://img.shields.io/badge/Focus-Systems%20%2B%20Product-111111?style=flat&logo=vercel&logoColor=white" />
-  </p>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="42px"/>
 
-</div>
+<!--   my-skills -->
+| Property | Data |
+|---|---|
+| **Language / IDE** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=gnubash&logoColor=white) |
+| **Domain Knowledge** | ![Systems](https://img.shields.io/badge/-Systems-1F2937?style=flat&logoColor=white) ![Backend](https://img.shields.io/badge/-Backend-111827?style=flat&logoColor=white) ![Infra](https://img.shields.io/badge/-Infrastructure-0B7285?style=flat&logoColor=white) ![UI/UX](https://img.shields.io/badge/-UI%2FUX-FF1493?style=flat&logoColor=white) |
+| **CI / CD** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **Frameworks / Tools** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white) |
 
-<hr/>
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 
-<!-- ===== Highlights cards ===== -->
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>Now</h3>
-        <ul>
-          <li>Shipping <b>Sonareo</b>: music × nearby social discovery</li>
-          <li>Hardening: auth, rate limits, observability, DX</li>
-          <li>Studying: algorithms, computer architecture, networking</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3>Stack</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,java,cpp,postgres,redis,docker,linux,git&perline=6" />
-        </p>
-        <p style="margin-top: 6px;">
-          <img alt="Editor" src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-          <img alt="Cloud" src="https://img.shields.io/badge/Cloud-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<!--   green snake (requires GitHub Action to generate in your repo) -->
+![Liam-Frost's github activity graph](https://raw.githubusercontent.com/Liam-Frost/Liam-Frost/output/github-contribution-grid-snake.svg)
 
-<hr/>
+<!--   stats + languages -->
+![Liam-Frost's github stats](https://github-readme-stats.vercel.app/api?username=Liam-Frost&show_icons=true&theme=radical&include_all_commits=true)
+![Liam-Frost's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Frost&theme=radical&layout=compact)
 
-<!-- ===== Stats row ===== -->
-<div align="center">
-
-  <!-- GitHub Readme Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-
-  <!-- Streak -->
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=false" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-<!-- ===== Top languages (optional) ===== -->
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_title=true" alt="Top languages" />
-</div>
-
-<hr/>
-
-<!-- ===== Trophies (optional) ===== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&no-frame=true&row=1&column=6" alt="trophies" />
-</div>
-
-<hr/>
-
-<!-- ===== Pinned projects “cards” (manual links) ===== -->
-<div align="center">
-  <h3>Selected Projects</h3>
-
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <a href="YOUR_REPO_LINK_1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_1" alt="repo 1" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <a href="YOUR_REPO_LINK_2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME_2" alt="repo 2" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <p style="margin-top: 10px;">
-    <i>Prefer small, composable systems; measurable performance; clean UI polish.</i>
-  </p>
-</div>
-
-<hr/>
-
-<!-- ===== Activity graph (optional) ===== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME" alt="activity graph" />
-</div>
-
-<!-- ===== Footer ===== -->
-<div align="center">
-  <sub>Last updated: <!-- you can manually update this date --> </sub>
-</div>
+### Profile Views
+<img src="https://count.getloli.com/get/@Liam-Frost.github.readme" />
+</br>
