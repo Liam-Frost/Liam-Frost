@@ -1,12 +1,11 @@
 <!-- ===== Header ===== -->
 <div align="center">
 
-  <h1 style="margin-bottom: 0;">YOUR_NAME</h1>
+  <h1 style="margin-bottom: 0;">Liam-Frost</h1>
   <p style="margin-top: 6px; margin-bottom: 14px;">
-    <a href="YOUR_WEBSITE">Website</a> ·
+    <a href="[YOUR_WEBSITE](https://twilightfrosty.com/)">Website</a> ·
     <a href="YOUR_LINKEDIN">LinkedIn</a> ·
-    <a href="YOUR_X">X</a> ·
-    <a href="mailto:YOUR_EMAIL">Email</a>
+    <a href="mailto:frostnova986@gmail.com">Email</a>
   </p>
 
   <!-- Quick badges -->
