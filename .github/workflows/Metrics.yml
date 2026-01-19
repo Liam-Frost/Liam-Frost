@@ -46,6 +46,10 @@ jobs:
           # Lines of code & activity trends (lightweight, recruiter-friendly)
           plugin_lines: yes
           plugin_lines_sections: base
+          
+          # Calendar-style contribution summary (3D)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
           # Calendar-style contribution summary (2D, fast, stable)
           plugin_calendar: yes
