@@ -51,22 +51,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Calendar-style contribution summary (2D, fast, stable)
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-
           # Repository overview signals (pin-quality hints)
           plugin_repositories: yes
           plugin_repositories_featured: ""   # keep empty; README pinned cards handle featuring
           plugin_repositories_order: featured, pinned, starred, random
           plugin_repositories_pinned: 2
-
-          # Optional: show recent activity (PRs/issues/commits) without being noisy
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_visibility: all
 
           # ---- Hard exclusions (avoid “template-account” vibe / heavy compute) ----
           plugin_achievements: no
