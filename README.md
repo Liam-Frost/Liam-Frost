@@ -31,6 +31,8 @@
 ![Liam-Frost's github stats](https://github-readme-stats.vercel.app/api?username=Liam-Frost&show_icons=true&theme=radical&include_all_commits=true)
 ![Liam-Frost's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Frost&theme=radical&layout=compact)
 
+<img src="github-metrics.svg" />
+
 ### Profile Views
 <img src="https://count.getloli.com/get/@Liam-Frost.github.readme" />
 </br>
