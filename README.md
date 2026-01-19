@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Liam-Frost/Liam-Frost/main/github-metrics.svg"  style="display:block;margin:auto;width:100%;" />
+    <img src="github-metrics.svg"  style="display:block;margin:auto;width:100%;" />
 </p>
 
 <!--   my-icons -->
