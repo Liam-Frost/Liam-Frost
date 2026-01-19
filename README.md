@@ -73,5 +73,6 @@
 
 
 ### Profile Views
+<p align="center">
 <img src="https://count.getloli.com/get/@Liam-Frost.github.readme" />
-</br>
+</p>
